@@ -4,11 +4,11 @@
   uses: tgymnich/fork-sync@v1.2.1
   with:
     # Owner of the forked repository
-    owner: # optional
+    owner: ywdoc
     # Token for the github API
     github_token: 
     # Branch to track
-    head: # optional, default is master
+    head: main
     # Branch to keep updated
     base: main
     # Merge method to use
